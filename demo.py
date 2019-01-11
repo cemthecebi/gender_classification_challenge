@@ -3,7 +3,7 @@ from sklearn import tree
 clf = tree.DecisionTreeClassifier()
 
 # CHALLENGE - create 3 more classifiers...
-# 1
+# 1 deneme
 # 2
 # 3
 
